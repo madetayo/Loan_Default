@@ -56,10 +56,9 @@ has about 12 fields and 601 rows.
 - The interest rate played a major part as customers with 8% to 14% interest rate contributed to about 68% of the total default rate.
 
 # Recommendations
-- The fiancial company should increase the credit score for accessing loan to about 600 and above, this will reduce the default rate significantly
-  and this might meet their expected 12% default rate goal
-- It is also important for the VP in risk to take a deeper look at debt to income ratio of customers as customers with debt to income ratio from 41 and above played
-  a major role in contributing to the default rate, ensure customer with debt to income ratio is below 50 which will also have a major shift in further reducing the   default rate.
+- The financial company should increase the credit score for accessing loan to about 600 and above, this will     reduce the default rate significantly and this might meet their expected 12% default rate goal.
+- It is also important for the VP in risk to take a deeper look at debt to income ratio of customers as customers with debt to income ratio from 41 and above played a major role in contributing to the default rate, ensure customer with debt to income ratio is below 50 which will also have a major shift in further reducing the default rate.
+- The interest rate is also a major contributor as customers with high interest rate from 8% to 14% contributed to about 68% of default rate.
 
 # Visuals
 <img width="1845" height="993" alt="loan_purpose" src="https://github.com/user-attachments/assets/7e30952e-502d-4110-8d32-b579ff82163e" />
