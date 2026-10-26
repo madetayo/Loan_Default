@@ -6,25 +6,33 @@ A financial company wants to know why the rate of default is about 25% of the to
 The VP of risk wants to understand what is driving this rate as the targeted default rate is 12%.
 
 # Process and Business questions:
- Import and Explore
-Load both CSVs.
+Step 1:  Import and Explore Load both CSVs into python for data exploratory.
 
-Check for nulls, data types, and basic stats.
+step 2: Check for nulls, data types, and basic stats using python
 
-Join the two tables on borrower_id.
+step 3: Group credit score, age, dti ratio to the appropriate group for easy analysis using pandas
+
+step 4: automate data from python in jupyter to sql server for proper analysis
 
 2. Segment Analysis:
 Create credit score buckets and calculate default rates for each.
 
-Do the same for DTI ranges, employment status, and loan purpose.
+<img width="629" height="222" alt="Screenshot 2026-10-26 191038" src="https://github.com/user-attachments/assets/9ecc3692-5e90-4f16-afa0-b3ee54d51972" />
+
+Do the same for DTI ranges, employment status, and loan purpose.<img width="625" height="242" alt="Screenshot 2026-10-26 193924" src="https://github.com/user-attachments/assets/1bfe6da5-0230-4ed3-af72-efb216ec4413" /><img width="638" height="290" alt="Screenshot 2026-10-26 200647" src="https://github.com/user-attachments/assets/7502e8e9-fbbb-4fb9-8a41-751a90186d22" />
+<img width="664" height="270" alt="Screenshot 2026-10-26 195756" src="https://github.com/user-attachments/assets/a34c5792-dcc0-4c2f-aa70-8a2ad3d3b743" />
+
+
 
 3. Correlation Analysis:
 Identify which numeric variables (credit score, DTI, income, loan amount, interest rate) have the strongest correlation with defaults.
 
-4. Visualization:
+--
+
+5. Visualization:
 Build charts showing default rate by credit score range, a scatter plot of DTI vs. default status, and a bar chart comparing loan purposes.
 
-5. Recommendations:
+6. Recommendations:
 Write a brief summary recommending the top 3 risk factors and suggest specific thresholds (e.g., minimum credit score, maximum DTI) for the underwriting team.
 
 # Data
