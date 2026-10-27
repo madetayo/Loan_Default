@@ -61,6 +61,8 @@ has about 12 fields and 601 rows.
 - The interest rate is also a major contributor as customers with high interest rate from 8% to 14% contributed to about 68% of default rate.
 
 # Visuals
+<img width="859" height="351" alt="Screenshot 2026-10-27 053414" src="https://github.com/user-attachments/assets/afd0c78e-e8bd-4ecc-8d00-1795c6e5c88a" />
+
 <img width="1845" height="993" alt="loan_purpose" src="https://github.com/user-attachments/assets/7e30952e-502d-4110-8d32-b579ff82163e" />
 <img width="1653" height="993" alt="interest rate" src="https://github.com/user-attachments/assets/b388b5f5-7175-4e8d-8fe0-8b207c03bdec" />
 <img width="1993" height="993" alt="employment_status" src="https://github.com/user-attachments/assets/5773d65c-58cf-4f25-805d-5bf0af8ead2b" />
